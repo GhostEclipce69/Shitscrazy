@@ -1,0 +1,11 @@
+/node_modules
+/logs
+.env
+node_modules
+/images
+/internal
+internal
+/data
+data
+eng.traineddata
+.DS_Store
